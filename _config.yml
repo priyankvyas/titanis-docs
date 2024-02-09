@@ -1,3 +1,7 @@
 title: Titanis Docs
 description: Documentation for Titanis, an open-source machine learning library for Apache Spark.
 theme: just-the-docs
+
+aux_links:
+  "Titanis on GitHub":
+    - "https://github.com/adaptive-machine-learning/titanis"

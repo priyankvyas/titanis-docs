@@ -35,16 +35,16 @@ Let us use an example script from the repository to demonstrate how to run Titan
 1. Navigate to the Titanis project directory.
 2. Open a Terminal in the directory. Alternatively, you can navigate to the project directory from within the Terminal, if opened in a different location.
 3. Build the project using the sbt command:  
-```
+```shell
 sbt package
 ```
 4. Once the build process is completed, Titanis is ready to run an experiment. The experiment can be run using one of the provided scripts in the scripts directory of the project. Here, we will run the kNNClassification script using the following command in the Terminal:  
 **Windows**  
-```
+```shell
 .\scripts\kNNClassification.bat
 ```  
 **macOS/Linux**  
-```
+```shell
 ./scripts/kNNClassification.sh
 ```  
 Alternatively, you can run an experiment directly from the Terminal by pasting the following command:  

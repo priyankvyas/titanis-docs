@@ -9,9 +9,8 @@ parent: Tutorials
 {: .fs-9}
 
 The following tutorial shows how to perform concept drift detection using Titanis. The tutorial shows how to use a native drift detector from Titanis on an arbitrary stream of instances. It is recommended that Titanis is installed and setup using the steps given on the Setup page before starting the tutorial.
- 
-The tutorials for Concept Drift Detection and Concept Drift Detection using MOA are highly similar and serve as standalone tutorials. Please choose only one of the tutorials to follow methodically to avoid repeating steps.
-{: .note }
+
+{: .note} The tutorials for Concept Drift Detection and Concept Drift Detection using MOA are highly similar and serve as standalone tutorials. Please choose only one of the tutorials to follow methodically to avoid repeating steps.
 
 ## Setup
 {: .fs-7}

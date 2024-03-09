@@ -7,3 +7,8 @@ favicon_ico: "/assets/favicon.ico"
 aux_links:
   "Titanis on GitHub":
     - "https://github.com/adaptive-machine-learning/titanis"
+
+callouts:
+  note:
+    title: Note
+    color: purple

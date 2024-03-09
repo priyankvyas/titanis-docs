@@ -1,7 +1,7 @@
 title: Titanis Docs
 description: Documentation for Titanis, an open-source machine learning library for Apache Spark.
 theme: just-the-docs
-logo: "./assets/titanis-logo.webp"
+logo: "./assets/titanis-logo-title.webp"
 favicon_ico: "/assets/favicon.ico"
 
 aux_links:

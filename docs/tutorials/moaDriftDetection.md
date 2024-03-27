@@ -11,7 +11,7 @@ parent: Tutorials
 The following tutorial shows how to perform concept drift detection with MOA drift detectors using Titanis. The tutorial shows how to use a drift detector from MOA from within Titanis on an arbitrary stream of instances. It is recommended that Titanis is installed and setup using the steps given on the Setup page before starting the tutorial.
 
 {: .note} 
-The tutorials for Concept Drift Detection and Concept Drift Detection using MOA are highly similar and serve as standalone tutorials. Please choose only one of the tutorials to follow methodically to avoid repeating steps.
+The tutorials for Concept Drift Detection and Concept Drift Detection using MOA are highly similar and serve as standalone tutorials. Please choose only one of the tutorials to follow methodically to avoid repeating steps. In this tutorial, the Drift Detector subsection in the Setup section and the spark-submit command differ from the same sections found in the other tutorials.
 
 ## Setup
 {: .fs-7}

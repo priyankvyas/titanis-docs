@@ -247,4 +247,4 @@ The results of this experiment are split into two parts. For the training and pr
 7. After some time, the file should show the trained Logistic Regression model parameters and the instances where drift was detected.
 8. Since this experiment only uses one micro-batch of data, when it is processed, the file output should say "Finished analyzing batch 0". This indicates that the data has been processed and the application has now finished its task.
 
-This concludes the concept drift detection from an external Spark application tutorial, and you can now run similar experiments using other Titanis and MOA concept drift detectors within your existing Spark pipelines.
+This concludes the concept drift detection from an external Spark application tutorial, and you can now run similar experiments using other Titanis and MOA concept drift detectors within your existing Spark pipelines. The code shown in the tutorial can be found in its entirety in the GitHub repository in the examples' subdirectory.

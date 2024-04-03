@@ -8,6 +8,12 @@ aux_links:
   "Titanis on GitHub":
     - "https://github.com/adaptive-machine-learning/titanis"
 
+nav_external_links:
+  - title: Documentation
+    url: "https://github.com/just-the-docs/just-the-docs"
+    hide_icon: true
+    opens_in_new_tab: false
+
 callouts:
   note:
     title: Note
